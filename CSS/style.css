@@ -531,7 +531,7 @@ fill: currentColor;
 .portfolio-container {
   flex-direction: column;
   align-items: center;
-
+}
 /* ------------------filter------------------------ */
 .filter-list {
   display: flex;
